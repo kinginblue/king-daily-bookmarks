@@ -10,4 +10,8 @@
 
 ### Gateway
 
-- [Building Microservices: Using an API Gateway ](https://dzone.com/articles/building-microservices-using) | [译文](http://www.itrator.top/building-microservices-using-api-gateway/)
+- [Building Microservices: Using an API Gateway](https://dzone.com/articles/building-microservices-using) | [译文](http://www.itrator.top/building-microservices-using-api-gateway/)
+
+## Docker
+
+- [Docker RUN vs CMD vs ENTRYPOINT](http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/)
